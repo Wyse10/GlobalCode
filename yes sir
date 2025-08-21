@@ -1,1 +1,3 @@
-print ("kofi")
+name=inpet("what is yor name")
+print(type(name))
+print(name)
