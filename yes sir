@@ -1,3 +1,4 @@
-name=inpet("what is yor name")
+name=input("what is yor name")
 print(type(name))
 print(name)
+
